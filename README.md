@@ -17,13 +17,7 @@ Practical experiance managing software packages by working with network security
   
 ## Steps
 - Confirmed that APT package manager was installed in the Linux environment.
-
- 
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 <img src="https://github.com/Shan-light/Linux-Software-Management-Lab/blob/f347f9767986474486c48a2018b52a9d4bbcddee/images/task1-ensure%20apt%20installed.png"/>
 
 
-*Ref 1: Network Diagram*
+*Image 1: Task 1*
