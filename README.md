@@ -25,6 +25,10 @@ Practical experiance managing software packages by working with network security
 2. Use the APT package manager to install the Suricata application.
 - To install and uninstall software on Linux systems elevated privileges are required, and can be done by using the "sudo", if the user have these privileges.
 <img src="https://github.com/Shan-light/Linux-Software-Management-Lab/blob/a5d422b5120a5f5f9b00dd44b87eaf640d07c533/images/task2.11%20install%20suricata.png"/>
-*Image 2: Task 2*
 
-- Suricata is a network analysis tool used for intrusion detection and prevention. Suricata was installed and installation verified has seen the image above.
+*Image 2.1: Task 2*
+
+<img src="https://github.com/Shan-light/Linux-Software-Management-Lab/blob/fab93dacb2df6a0b65d54406b54326fed63dc307/images/task2.2%20verify%20suricata%20installed.png">
+*Image 2.2: Task 2*
+
+- Suricata is a network analysis tool used for intrusion detection and prevention. Suricata was installed and installation verified has seen the images above.
