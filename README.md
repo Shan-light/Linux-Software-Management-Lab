@@ -1,5 +1,5 @@
 # Linux-Software-Management-Lab
-Experienced in APT package manager Installing, Updating, and Removing Linux Software.
+APT package manager Installing, Updating, and Removing Linux Software.
 ## Objective
 
 Gain hands-on experience using the Advanced Package Tool (APT) and sudo in a Debian-based Linux environment to install and uninstall applications utilizing the Bash shell.
